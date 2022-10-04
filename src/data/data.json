@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "Cosmetics",
+      "productList": [
+        {
+          "name": "Aloevera gel",
+          "price": 400
+        },
+        {
+          "name": "Tea tree face wash",
+          "price": 450
+        },
+        {
+          "name": "Egg yoke shampoo",
+          "price": 420
+        },
+        {
+          "name": "Glowing facewash",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "name": "Household",
+      "productList": [
+        {
+          "name": "Mirror",
+          "price": 60
+        },
+        {
+          "name": "Tubelight",
+          "price": 300
+        },
+        {
+          "name": "Fan",
+          "price": 1200
+        },
+        {
+          "name": "Table",
+          "price": 1000
+        },
+        {
+          "name": "Bed",
+          "price": 5000
+        }
+      ]
+    },
+    {
+      "name": "Kitchen",
+      "productList": [
+        {
+          "name": "Dishwasher",
+          "price": 15000
+        },
+        {
+          "name": "Fridge",
+          "price": 30000
+        },
+        {
+          "name": "Oven",
+          "price": 8000
+        }
+      ]
+    }
+  ]
+}

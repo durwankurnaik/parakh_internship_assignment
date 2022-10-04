@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  font-family: "Rakkas", cursive;
+  width: 70%;
+  margin: auto;
+}
+
+.navbar .left {
+  font-size: 2rem;
+}
+
+.navbar .right {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  display: flex;
+  gap: 1.2rem;
+}
+
+.navbar .right li {
+  list-style: none;
+  cursor: pointer;
+}
+
+.navbar .buttons {
+  background-color: #674ab3;
+  color: lightcyan;
+  padding: 0.25rem 0.8rem;
+  border-radius: 0.5rem;
+}

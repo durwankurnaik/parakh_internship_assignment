@@ -1,0 +1,27 @@
+.main_content {
+  width: 70%;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.main_content h2 {
+  margin-bottom: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem;
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+.card .buttons {
+  text-align: center;
+  background-color: #e3c0eb;
+  border-radius: 0.3rem;
+  color: black;
+  width: 80%;
+  margin: 0.4rem auto 0;
+  cursor: pointer;
+}
