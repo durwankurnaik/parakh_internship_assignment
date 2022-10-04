@@ -22,4 +22,4 @@ In the project directory, you can run:
 
 # The code has been hosted on the below URL
 
-- ...
+- https://parakh-internship-task.netlify.app/
